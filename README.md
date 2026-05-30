@@ -4,7 +4,7 @@ Welcome to my portfolio repository.
 
 ## About Me
 
-I am a Computer Engineering Diploma student with an interest in Software Development, Web Development, Python, Java, and UI/UX Design.
+I am a Computer Science And Engineering Diploma student with an interest in Software Development, Web Development, Python, Java, and UI/UX Design.
 
 ## Skills
 
